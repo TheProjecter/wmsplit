@@ -21,6 +21,7 @@
 import subprocess
 import string
 import sys
+import traceback
 
 from optparse import OptionParser
 
